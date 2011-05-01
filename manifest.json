@@ -1,0 +1,13 @@
+{
+    "name": "Book Checkr",
+    "version": "1.0",
+    "description" : "",
+    "permissions": [
+        "bookmarks", "tabs", "http://*/*"
+        ],
+    "browser_action": {
+        "default_icon" : "ebook-19.png",
+        "default_title" : "search a book",
+        "default_popup" : "popup.html"
+    }
+}

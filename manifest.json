@@ -1,5 +1,5 @@
 {
-    "name": "Book Checkr",
+    "name": "eBook Search (epub, pdf)",
     "version": "1.0",
     "description" : "",
     "permissions": [
@@ -9,5 +9,9 @@
         "default_icon" : "ebook-19.png",
         "default_title" : "search a book",
         "default_popup" : "popup.html"
-    }
+    },
+  	"icons" : {
+    "48" : "ebook-48.png",
+    "128" : "ebook-128.png"
+  }
 }

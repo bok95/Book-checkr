@@ -1,4 +1,4 @@
-var url = "http://www.google.com/cse?cx=000126013176747996749:o-m-xn8ls0m&ie=UTF-8&q=";
+var url = "http://books.chec.kr?q=";
 
 function init() {
       K("searchBox").focus();

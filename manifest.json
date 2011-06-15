@@ -1,9 +1,9 @@
 {
-    "name": "eBook Search (epub, pdf)",
-    "version": "1.0",
+    "name": "eBook Search (epub, pdf, kindle, audio)",
+    "version": "1.1",
     "description" : "",
     "permissions": [
-        "bookmarks", "tabs", "http://*/*"
+        "tabs", "http://*/*"
         ],
     "browser_action": {
         "default_icon" : "ebook-19.png",
